@@ -1,2 +1,1 @@
-Spring Boot.
-Нормальный вариант.
+Java, Spring Boot, нормальный вариант.
