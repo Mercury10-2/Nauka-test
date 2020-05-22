@@ -76,11 +76,8 @@ public class MainController {
         model.put("months", calendar);
         model.put("chosenMonth", month);
         model.put("days", days);
-        //  model.put("days", month.getDays());
         model.put("dates", dates);
-        //  model.put("dates", month.getDates());
         model.put("empStats", employeeTimeSchedule);
-        //  model.put("empStats", month.getEmployeeData());
         return "table";
     }
 
